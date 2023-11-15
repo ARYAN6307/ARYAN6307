@@ -1,4 +1,4 @@
-![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif)
+![MasterHead]([https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif))
 <h1 align="center">Hi 👋, I'm ARYAN PANDEY</h1>
 <h3 align="center">A passionate competitive coder and Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="[https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif](https://www.shutterstock.com/shutterstock/videos/1081041155/thumb/5.jpg?ip=x480)](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif)">
