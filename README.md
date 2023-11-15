@@ -1,19 +1,19 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm ARYAN PANDEY</h1>
-<h3 align="center">A passionate competitive coder from India</h3>
+<h3 align="center">A passionate competitive coder and Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan6307&label=Profile%20views&color=0e75b6&style=flat" alt="aryan6307" /> </p>
 
 
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I’m currently working on **REACT JS**
 
-- 🌱 I’m currently learning **ANDROID DEV**
+- 🌱 I’m currently learning **WEB DEV**
 
-- 🤝 I’m looking for help with **Android development**
+- 🤝 I’m looking for help with **Frontend development**
 
-- ⚡ Fun fact **You are seeing me Hahahaha☕☕**
+- ⚡**Stay Focused, Stay Motivated☕☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
